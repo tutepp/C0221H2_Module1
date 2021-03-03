@@ -1,1 +1,17 @@
-Hoang van tu
+Feflection 03_03_2021 Hoang_Van_Tu
+Nội dung học được:
+Bài cũ:(Flowchart và Psedou code)
+- Hiểu được bài toán tìm dãy số lớn nhất trong 1 dãy số ( còn thắc mắc ở buổi trước), cách viết flowchart
+Bài mới:
+Git
+- Biết được nguyên lý hoạt động của git
+- Hiểu ứng dụng của git đối với dân công nghệ thông tin và coder
+- Biêt cách push git lên github
+HTLM
+- Hiểu được một trang web được tạo nên từ các thẻ HTML.
+- Ứng dụng của các thẻ sử dựng trg HTML: thẻ tiêu đề, thẻ tạo đoạn văn, thẻ tạo liên kết,....
+- Chú thích trong HTML
+Hạn chế
+- Code còn chậm và còn quên một số thẻ đã học ( cần cả thiện )
+- Đôi khi thiếu tập trung, cần tập trung hơn để theo kịp mọi người
+- Sắp xếp công việc trên lớp chưa hợp lý, khoa học, đôi khi còn rối, chưa biết giải quyết việc gì trước.
